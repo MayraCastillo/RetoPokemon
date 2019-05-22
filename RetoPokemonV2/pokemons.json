@@ -1,0 +1,146 @@
+[
+  {
+    "codigo": 0,
+    "nombre": "Gothita",
+    "tipo": "Psiquico",
+    "fuerza": 2,
+    "velocidad": 3,
+    "evolucion": 1,
+    "imagen": "gothita.png"
+  },
+  {
+    "codigo": 1,
+    "nombre": "Weezing",
+    "tipo": "Veneno",
+    "fuerza": 5,
+    "velocidad": 3,
+    "evolucion": 2,
+    "imagen": "weezing.png"
+  },
+  {
+    "codigo": 2,
+    "nombre": "Ivysaur",
+    "tipo": "Planta, Veneno",
+    "fuerza": 3,
+    "velocidad": 3,
+    "evolucion": 2,
+    "imagen": "ivysaur.png"
+  },
+  {
+    "codigo": 3,
+    "nombre": "Charmander",
+    "tipo": "Fuego",
+    "fuerza": 3,
+    "velocidad": 5,
+    "evolucion": 1,
+    "imagen": "charmander.png"
+  },
+  {
+    "codigo": 4,
+    "nombre": "Poliwhirl",
+    "tipo": "Agua",
+    "fuerza": 3,
+    "velocidad": 5,
+    "evolucion": 2,
+    "imagen": "poliwhirl.png"
+  },
+  {
+    "codigo": 5,
+    "nombre": "Cranidos",
+    "tipo": "Roca",
+    "fuerza": 6,
+    "velocidad": 3,
+    "evolucion": 1,
+    "imagen": "cranidos.png"
+  },
+  {
+    "codigo": 6,
+    "nombre": "Squirtle",
+    "tipo": "Agua",
+    "fuerza": 3,
+    "velocidad": 2,
+    "evolucion": 1,
+    "imagen": "squirtle.png"
+  },
+  {
+    "codigo": 7,
+    "nombre": "Metapod",
+    "tipo": "Bicho",
+    "fuerza": 0,
+    "velocidad": 0,
+    "evolucion": 2,
+    "imagen": "metapod.png"
+  },
+  {
+    "codigo": 8,
+    "nombre": "Beedrill",
+    "tipo": "Bicho, Veneno",
+    "fuerza": 5,
+    "velocidad": 4,
+    "evolucion": 3,
+    "imagen": "beedrill.png"
+  },
+  {
+    "codigo": 9,
+    "nombre": "Blastoise",
+    "tipo": "Agua",
+    "fuerza": 4,
+    "velocidad": 4,
+    "evolucion": 3,
+    "imagen": "blastoise.png"
+  },
+  {
+    "codigo": 10,
+    "nombre": "Arbok",
+    "tipo": "Veneno",
+    "fuerza": 4,
+    "velocidad": 4,
+    "evolucion": 2,
+    "imagen": "arbok.png"
+  },
+  {
+    "codigo": 11,
+    "nombre": "Pidgeot",
+    "tipo": "Normal, Volador",
+    "fuerza": 4,
+    "velocidad": 5,
+    "evolucion": 3,
+    "imagen": "pidgeot.png"
+  },
+  {
+    "codigo": 12,
+    "nombre": "Butterfree",
+    "tipo": "Bicho, Volador",
+    "fuerza": 0,
+    "velocidad": 0,
+    "evolucion": 3,
+    "imagen": "butterfree.png"
+  },
+  {
+    "codigo": 13,
+    "nombre": "Meowth",
+    "tipo": "Normal",
+    "fuerza": 2,
+    "velocidad": 5,
+    "evolucion": 1,
+    "imagen": "meowth.png"
+  },
+  {
+    "codigo": 14,
+    "nombre": "Jigglypuff",
+    "tipo": "Normal, Hada",
+    "fuerza": 2,
+    "velocidad": 1,
+    "evolucion": 2,
+    "imagen": "jigglypuff.png"
+  },
+  {
+    "codigo": 15,
+    "nombre": "Vulpix",
+    "tipo": "Fuego",
+    "fuerza": 2,
+    "velocidad": 4,
+    "evolucion": 1,
+    "imagen": "vulpix.png"
+  }
+]
